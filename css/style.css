@@ -46,6 +46,13 @@ a {
   text-decoration: none;
 }
 
+p a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
